@@ -1,7 +1,11 @@
 # Hackerrank-Challenges
 
 SQL
+
 Subdomain	Challenge	Points	Solution
+----------------------------------------------------------------------
+|Sr No |                 Challenge         |            Solution      |  
+----------------------------------------------------------------------
 Basic Select	Revising the Select Query I	10	MySQL Solution
 Basic Select	Revising the Select Query II	10	MySQL Solution
 Basic Select	Select All	10	MySQL Solution

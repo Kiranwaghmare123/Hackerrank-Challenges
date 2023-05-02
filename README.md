@@ -36,14 +36,4 @@ Java  Strings and SubStrings Challenge :
 |       Data Structures   	  | [Java BitSet](https://www.hackerrank.com/challenges/java-bitset/problem)           	   							 	    				| <a href="https://github.com/Kiranwaghmare123/Hackerrank-Challenges/blob/main/Data%20Strucutres/JavaBitSet.java">Solution</a>       			  				     			|                                                              
 |       Data Structures   	  | [Java Priority Queue](https://www.hackerrank.com/challenges/java-priority-queue/problem)           	   									| <a href="https://github.com/Kiranwaghmare123/Hackerrank-Challenges/blob/main/Data%20Strucutres/JavaPriorityQueue.java">Solution</a> 			  	        	               	|                                                              
 |       Data Structures   	  | [Java 1D Array (Part 2)](https://www.hackerrank.com/challenges/java-1d-array/problem)           	   							 		| <a href="https://github.com/Kiranwaghmare123/Hackerrank-Challenges/blob/main/Data%20Strucutres/Java1DArrayPart2.java">Solution</a>       			  			            	|  			            	|         			  			            	|   
-# Arrays Challenge :
------------------------------------------
 
-| Serial No     | Java Challenge                           | Solution                     |
-| :------------ |:----------------------------------------:| ----------------------------:|
-| 1             |  Arrays - DS                         |  <a href="">Solution</a>   
-| 2             |  Java String Reverse Substring       |   <a href="">Solution</a>        |
-| 3             |  Java Substring Comparisons              |  <a href="">Solution</a>     |
-| 4             |  Java String Reverse                     |  <a href="">Solution</a>     |
-| 5             |  Java Anagrams                           |  <a href="">Solution</a>     | 
-| 6             |  Java String Tokens                      |  <a href="">Solution</a>     |

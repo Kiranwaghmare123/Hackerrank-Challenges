@@ -21,8 +21,8 @@ Java  Strings and SubStrings Challenge :
 
 | Serial No     | Java Challenge                           | Solution                     |
 | :------------ |:----------------------------------------:| ----------------------------:|
-|       Data Structures   	  | [Java 1D Array](https://www.hackerrank.com/challenges/java-1d-array-introduction/problem)           	    					 		| <a href="">Solution</a>        			  				 			|                                                              
-|       Data Structures   	  | [Java 2D Array](https://www.hackerrank.com/challenges/java-2d-array/problem)           	   					 							| <a href="">Solution</a>       			  				 			|                                                              
+|       Data Structures   	  | [Java 1D Array](https://www.hackerrank.com/challenges/java-1d-array-introduction/problem)           	    					 		| <a href="https://github.com/Kiranwaghmare123/Hackerrank-Challenges/blob/main/Data%20Strucutres/Java1DArray.java">Solution</a>        			  				 			|                                                              
+|       Data Structures   	  | [Java 2D Array](https://www.hackerrank.com/challenges/java-2d-array/problem)           	   					 							| <a href="https://github.com/Kiranwaghmare123/Hackerrank-Challenges/blob/main/Data%20Strucutres/Java1DArrayPart2.java">Solution</a>       			  				 			|                                                              
 |       Data Structures   	  | [Java Subarray](https://www.hackerrank.com/challenges/java-negative-subarray/problem)           	   							 		| <a href="">Solution</a>     			  				 		    	|                                                              
 |       Data Structures   	  | [Java Arraylist](https://www.hackerrank.com/challenges/java-arraylist/problem)           	   					 				 		| <a href="">Solution</a>      			  			 			    	|                                                              
 |       Data Structures   	  | [Java Map](https://www.hackerrank.com/challenges/phone-book/problem)           	   					 							   		| <a href="">Solution</a>    			  						 		|                                                              
@@ -35,7 +35,7 @@ Java  Strings and SubStrings Challenge :
 |       Data Structures   	  | [Java Dequeue](https://www.hackerrank.com/challenges/java-dequeue/problem)           	   							 			 		| <a href="">Solution</a>  				 			                    |                                                              
 |       Data Structures   	  | [Java BitSet](https://www.hackerrank.com/challenges/java-bitset/problem)           	   							 	    				| <a href="">Solution</a>       			  				     		|                                                              
 |       Data Structures   	  | [Java Priority Queue](https://www.hackerrank.com/challenges/java-priority-queue/problem)           	   									| <a href="">Solution</a> 			  	        	               		|                                                              
-|       Data Structures   	  | [Java 1D Array (Part 2)](https://www.hackerrank.com/challenges/java-1d-array/problem)           	   							 		| <a href="">Solution</a>       			  			            	|   
+|       Data Structures   	  | [Java 1D Array (Part 2)](https://www.hackerrank.com/challenges/java-1d-array/problem)           	   							 		| <a href="">Solution</a>       			  			            	|         			  			            	|   
 # Arrays Challenge :
 -----------------------------------------
 

@@ -16,3 +16,16 @@ Java  Strings and SubStrings Challenge :
 | 9             |  Tag Content Extractor                   |  <a href="https://github.com/Kiranwaghmare123/Hackerrank-Challenges/blob/main/Strings/TagContentExtractor.java"> Solution</a>             |
 | 10            |  Java Regex                              |  <a href="https://github.com/Kiranwaghmare123/Hackerrank-Challenges/blob/main/Strings/Regex.java"> Solution</a>                           |
 | 11            |  Java Regex 2 - Duplicate Words          |  <a href="https://github.com/Kiranwaghmare123/Hackerrank-Challenges/blob/main/Strings/DuplicateWords.java"> Solution</a>                  |
+
+
+# Arrays Challenge :
+-----------------------------------------
+
+| Serial No     | Java Challenge                           | Solution                     |
+| :------------ |:----------------------------------------:| ----------------------------:|
+| 1             |  Arrays - DS                         |  <a href="">Solution</a>   
+| 2             |  Java String Reverse Substring       |   <a href="">Solution</a>        |
+| 3             |  Java Substring Comparisons              |  <a href="">Solution</a>     |
+| 4             |  Java String Reverse                     |  <a href="">Solution</a>     |
+| 5             |  Java Anagrams                           |  <a href="">Solution</a>     | 
+| 6             |  Java String Tokens                      |  <a href="">Solution</a>     |

@@ -37,3 +37,19 @@ Java  Strings and SubStrings Challenge :
 |       Data Structures   	  | [Java Priority Queue](https://www.hackerrank.com/challenges/java-priority-queue/problem)           	   									| <a href="https://github.com/Kiranwaghmare123/Hackerrank-Challenges/blob/main/Data%20Strucutres/JavaPriorityQueue.java">Solution</a> 			  	        	               	|                                                              
 |       Data Structures   	  | [Java 1D Array (Part 2)](https://www.hackerrank.com/challenges/java-1d-array/problem)           	   							 		| <a href="https://github.com/Kiranwaghmare123/Hackerrank-Challenges/blob/main/Data%20Strucutres/Java1DArrayPart2.java">Solution</a>       			  			            	|  			            	|         			  			            	|   
 
+ Linux Challenge :
+-----------------------------------------
+
+| Serial No     | Linux Challenge                           | Solution                     |
+| :------------ |:----------------------------------------:| ----------------------------:|
+| 1             |  Let's Echo!					           |  <a href="">Solution</a> | 
+| 2             |  Looping and Skipping			       	   |  <a href="">Solution</a> |
+| 3             |  A Personalized Echo             		   |  <a href="">Solution</a> |
+| 4             |  Looping with numbers                    |  <a href="">Solution</a> |
+| 5             |  The World of Numbers                    |  <a href="">Solution</a> |
+| 6             |  Comparing Numbers                       |  <a href="">Solution</a> |
+| 7             |  Getting started with conditionals       |  <a href="">Solution</a> |
+| 8             |  More on Conditionals       			   |  <a href="">Solution</a> |
+| 9             |  Arithmetic Operations                   |  <a href="">Solution</a> |
+| 10            |  Compute the Average	                   |  <a href="">Solution</a> |
+| 11            |  Functions and Fractals - Recursive Trees - Bash!         |  <a href="">Solution</a> |

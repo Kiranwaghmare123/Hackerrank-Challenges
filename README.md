@@ -1,6 +1,22 @@
 # Hackerrank-Challenges Solutions
 
-Java  Strings and SubStrings Challenge :
+# CPP Challenge :
+-----------------------------------------
+
+| Serial No     | CPP Challenge                           | Solution                     |
+| :------------ |:----------------------------------------:| ----------------------------:|
+| 1             |  Say_hello_world_with_cpp				         |  <a href="">Solution</a> | 
+| 2             |  Input_and_output		       	           |  <a href="">Solution</a> |
+| 3             |  Basic_data_types            		       |  <a href="">Solution</a> |
+| 4             |  Conditional_statements				           |  <a href="">Solution</a> |
+| 5             |  For_loop                             |  <a href="">Solution</a> |
+| 6             |  Functions                            |  <a href="">Solution</a> |
+| 7             |  Pointer       						                 |  <a href="">Solution</a> |
+| 8             |  Arrays_introduction       			        |  <a href="">Solution</a> |
+| 9             |  Variable_sized_arrays                |  <a href="">Solution</a> |
+| 10            |  Structs	                   			       |  <a href="">Solution</a> |
+
+# Java  Strings and SubStrings Challenge :
 -----------------------------------------
 
 | Serial No     | Java Challenge                           | Solution                     |

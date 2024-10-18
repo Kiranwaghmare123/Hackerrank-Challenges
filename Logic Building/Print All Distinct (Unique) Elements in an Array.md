@@ -284,6 +284,38 @@ public class Solution {
 ```
 
 ---
+The time complexity of the provided solution can be analyzed as follows:
+
+### Time Complexity:
+
+1. **Input Reading (`O(n)`)**:
+   - Reading `n` integers from the input requires linear time `O(n)` because each integer is read one by one.
+
+2. **Inserting into the `LinkedHashSet` (`O(n)`)**:
+   - A `LinkedHashSet` ensures uniqueness and maintains the order of insertion.
+   - The insertion operation in a `HashSet` (or `LinkedHashSet`) typically takes **O(1)** time on average for each element.
+   - Inserting `n` elements into the `LinkedHashSet` thus takes **O(n)** in total.
+
+3. **Iterating and Printing the Set (`O(n)`)**:
+   - After inserting all elements, we iterate through the `LinkedHashSet` and print each unique element.
+   - Since the size of the set is at most `n` (one entry per unique element), the iteration takes **O(n)**.
+
+### Overall Time Complexity:
+- **Reading input**: `O(n)`
+- **Inserting elements into `LinkedHashSet`**: `O(n)`
+- **Iterating through the set and printing**: `O(n)`
+
+Thus, the **total time complexity** of the solution is:
+
+\[ O(n) + O(n) + O(n) = O(n) \]
+
+### Space Complexity:
+
+- The space complexity is also **O(n)** because we are storing the input array of size `n` and a `LinkedHashSet` of at most `n` elements (in the worst case where all elements are distinct).
+
+### Conclusion:
+- **Time Complexity**: `O(n)`
+- **Space Complexity**: `O(n)`
 
 ### Key Concepts:
 - **Sets**: A set automatically removes duplicates, which is why we use a `LinkedHashSet` to retain the first occurrence order.
